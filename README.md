@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6PkNYzZ5)
 # Github Basics
 This guide will provide a step-by-step instructions to setup your github account on your computer, and the basics on how to clone and commit the code.
 
@@ -12,9 +13,9 @@ This creates:
 ~/.ssh/id_ed25519.pub (public key)
 
 #### 2. Open and copy your SSH key
-Mac: `cat ~/.ssh/id_ed25519_new_account.pub | pbcopy`
+Mac: `cat ~/.ssh/id_ed25519.pub | pbcopy`
 
-Windows: `cat ~/.ssh/id_ed25519_new_account.pub | clip`
+Windows: `cat ~/.ssh/id_ed25519.pub | clip`
 
 
 You can also simply open the key and using Ctrl/Cmd+C to copy the key:
